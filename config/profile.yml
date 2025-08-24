@@ -8,7 +8,7 @@ HEADER:
 
 USER:
   role: "iOS Developer"
-  name: "Richard Hendricks"
+  name: "Vencent Abis"
   username: "richardhendricks" # <-- This needs to be the same as your GitHub username
   avatar: "config/assets/avatars/my-avatar.png"
 
